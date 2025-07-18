@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marvingrosser
 - 👀 I’m interested in computer science, maths, politics
-- 🌱 I’m currently learning Msc computer science
 - 📫 How to reach me: MYFIRSTNAME.grosser@gmx.de
 
 <!---
